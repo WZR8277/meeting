@@ -1,2 +1,7 @@
 # meeting
-会议室web SSM框架 （mysql8 maven 3.3.2 mybatis 3.4.5 spring 5.0.2等）
+会议室web SSM+freemarker框架 （mysql8 maven 3.3.2 mybatis 3.4.5 spring 5.0.2等）
+
+文件中数据库等配置自己设置成自己的密码（注意配置文件）
+
+该项目没有完善，预定会议中添加会议报错400，有兴趣可以留意你的解决方案（大概率是表单提交信息封装失败）
+其他功能并没有完全做好，适合学习完SSM练习用
